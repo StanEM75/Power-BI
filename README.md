@@ -17,7 +17,7 @@ This project allowed me to showcase the key skills I have acquired in Power BI r
 - **Power BI**
 - **DAX**
 
-## 🔑 Installation
+## 🔑 Project Workflow
 
 1. **Collecting and Loading CSV Files**
 - Gather all relevant CSV files containing the data for analysis.
