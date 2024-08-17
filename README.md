@@ -1,4 +1,4 @@
-# Luxury Industry in Asia - Power BI Reporting
+# Luxury Industry in Asia-Pacific - Power BI Reporting
 
 <div style="text-align: center;">
     <img src="https://img.lemde.fr/2023/04/28/0/1880/6336/6336/320/320/75/0/87505ba_1682689815675-dsc5241.jpg" alt="Project Image" />
